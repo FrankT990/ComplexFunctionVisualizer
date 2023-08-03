@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=uDHihc4sIQ8
+
+https://www.youtube.com/watch?v=NtoIXhUgqSk
+
+https://www.johndcook.com/blog/2017/11/09/visualizing-complex-functions/
+
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.figure.html
+
+https://stackoverflow.com/questions/42924993/colorbar-for-matplotlib-plot-surface-using-facecolors

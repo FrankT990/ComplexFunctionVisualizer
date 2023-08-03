@@ -1,0 +1,14 @@
+This python program is designed to visualize complex functions using matplotlib and numpy
+
+The program currently contains 5 functions, these functions can be easily changed in cfv.py
+In a future update, users will be able to input their own custom complex functions using the Wolfram Alpha API
+
+The motivation for creating this project was the challenge presented by the initially unintuitive idea of visualizing a complex function
+
+Complex functions, as implied from their notation
+f: C -> C, f: Z(x, y) -> W(u, v)
+have 4 dimensions to be visualized, the real and imaginary part of the domain, and the real and imaginary part of the image. 
+This initially poses a challenge as graphs are conventionally limited to the 3 spatial dimensions for visualization.
+In order to overcome this challenge, the 3 spatial dimensions are used to graph the real part of the domain on the x-axis, the 
+imaginary part of the domain on the y-axis, the real part of the image on the z-axis, and for the imaginary part of the image, color gradient
+is used to represent this fourth dimension.
