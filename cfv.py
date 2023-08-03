@@ -47,7 +47,7 @@ def visualize(f, x_lower, x_upper, y_lower, y_upper):
     # Color bar key
     m = cm.ScalarMappable(cmap=plt.cm.plasma)
     m.set_array([])
-    plt.colorbar(m, label="Color Scale (Im image)", orientation = "horizontal")
+    plt.colorbar(m, label="Normalized Color Scale (Im image)", orientation = "horizontal")
     
     ax.set_xlabel('Re')
     ax.set_ylabel('Im')
