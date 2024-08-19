@@ -8,7 +8,7 @@ def f1(z):
     return z**2
 
 def f2(z):
-    return z**3 - z
+    return z**3 
 
 def f3(z):
     return np.sin(z)
